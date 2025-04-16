@@ -1,6 +1,8 @@
 <template>
-    <div class="pt-[10%] text-7xl justify-self-center h-[6rem] bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-pink-500 tracking-light">
-        {{ splashMsg }}
+    <div class="pt-[10%] justify-self-center">
+        <h1 class=" text-7xl h-[6rem] bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-pink-500 tracking-light">
+            {{ splashMsg }}
+        </h1>
     </div>
 </template>
 
